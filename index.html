@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Invitados - Boda</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Selección de idioma -->
+  <div id="language-select">
+    <label>Selecciona idioma / Select language:</label>
+    <button onclick="setLanguage('es')">Español</button>
+    <button onclick="setLanguage('en')">English</button>
+  </div>
+
+  <!-- Contenido principal -->
+  <div id="main-content" style="display:none;">
+    <h1 id="title">Lista de Invitados</h1>
+
+    <input type="text" id="search" placeholder="Buscar por nombre" oninput="searchGuests()" />
+
+    <ul id="guest-list"></ul>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
