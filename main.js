@@ -1,18 +1,18 @@
 let guests = [
   { table: 1, names: ["Ana", "Amanda", "Kiara", "Chabelis", "Yareimy", "Alex", "Kriss", "Cristy", "Adriano"] },
-  { table: 2, names: ["Ray", "Yoel", "Yiselis", "Denier", "Yanicelis", "Leo"] },
-  { table: 3, names: ["Reinier", "Ernesto", "Judith", "César", "Elixon", "Javier", "Novia", "Oraci", "Colia", "Ángel", "Vladimir"] },
-  { table: 4, names: ["Beta", "Samuel", "Mama de beta", "Jose Morejon", "Yudelkis", "Linet", "Jatniel", "Anita", "Daniel", "Willy", "Felicita"] },
+  { table: 2, names: ["Ray", "Yoel", "Yiselis", "Denier", "Yanicelis", "Leo", "Bryan"] },
+  { table: 3, names: ["Reinier", "Ernesto", "Judith", "César", "Elixon", "Javier", "Dianelis", "Oraci", "Colia", "Ángel", "Vladimir"] },
+  { table: 4, names: ["Beta", "Samuel", "Gaudelia", "Jose morejon", "Yudelkis", "Linet", "Jatniel", "Anita", "Daniel", "Willy", "Felicita"] },
   { table: 5, names: ["Gabriel", "Marcos", "Rocio", "Maria", "Gabriela Martinez", "Jorge", "Claudia", "John", "Gabriela Garcia", "Meralis", "Yaena"] },
-  { table: 6, names: ["Yanelin", "Vivian", "Yanet", "Jose", "Freddy", "Danay", "Duniesky", "Georgina", "Kissi", "Zeinet", "Heivraham"] },
-  { table: 7, names: ["Daniela Soto", "Penélope", "Leandro", "Lisandra Ortiz", "Yosvel", "Jason", "Susan", "Gianlucas", "Noelia", "Wikelme", "Lino"] },
-  { table: 8, names: ["Marlén", "Yoel Mora", "Maylen Pérez", "Anays de la Torre", "Kelin Gómez", "Ana Glora Machin", "Rogelio Reyes", "Lesmes Pérez", "Yilien García", "Carol", "Jef"] },
-  { table: 9, names: ["Dave", "Andrea", "Chedu", "Leticia", "Rosita", "Reynaldo", "Lázaro (barbero)", "Geili (esposa)", "Niño", "Yonny", "Nicolás", "Marlin"] },
-  { table: 10, names: ["Elaine", "Michel", "Liam", "Elianet", "Emilio", "Dorcas", "Karla", "Yony", "Gloria", "Franky", "Sonia"] },
-  { table: 11, names: ["Daitee", "Niña", "Niño", "Asistente", "Asistente", "Osmany", "Asistente de photos", "Yeitian", "Melissa Varona", "Abimael", "Lázaro (Lachi)"] },
-  { table: 12, names: ["Yurania", "Roberto Blanco", "Elien Rodríguez", "Fabio Daniel", "Ayli", "Igzandro", "Erika", "Alejandra", "Meylin", "Sobrina", "Niño"] },
-  { table: 13, names: ["Elmase", "Carline", "Henry Phanor", "Nathan François", "Arnold Etienne", "Arnold Accius", "Nehemie Baptiste", "Girl friend", "Jacky Jn Philippe", "Kettelyne Gellin", "Angie Angel"] },
-  { table: 14, names: ["Jean Claude Paul", "Michelet", "Fender", "Ervens Fleurjean", "Roudline Charles", "Carlos Mercado", "Emmanuel", "Ernest", "Javier Jose", "Nelson"] }
+  { table: 6, names: ["Daniela Soto", "Penélope", "Leandro", "Lisandra Ortiz", "Yosvel", "Jason", "Susan", "Gianlucas", "Noelia", "Wikelme", "Lino"] },
+  { table: 7, names: ["Yanelin", "Vivian", "Yanet", "Jose", "Freddy", "Danay", "Duniesky", "Georgina", "Kissi", "Zeinet", "Danieska"] },
+  { table: 8, names: ["Marlén", "Yoel mora", "Maylen Pérez", "Lesmes Pérez", "Yilien García", "Carol", "Jef", "Jorge", "Gloria", "Franky", "Sonia"] },
+  { table: 9, names: ["Dave", "Andrea", "Chedu", "Leticia", "Rosita", "Reynaldo", "Lázaro Barrueta", "Geili", "Samuel Reyes", "Jony R."] },
+  { table: 10, names: ["Elaine", "Michel", "Liam", "Elianet", "Emilio", "Dorcas", "Karla", "Yony", "Ayli", "Igzandro", "Erika"] },
+  { table: 11, names: ["Daitee", "Kateryn", "Justin", "Isaac", "Osmany", "Rocio (photografa)", "Yeitian", "David Mugercia", "Melissa Varona", "Abimael", "Lázaro (Lachi)"] },
+  { table: 12, names: ["Yurania", "Roberto Blanco", "Madeleine Linares", "Luis Menéndez", "Fabio Daniel", "Zenaida delgado", "Alejandra", "Meylin", "Hija", "Niño"] },
+  { table: 13, names: ["Elmase", "Carline", "Henry Phanor", "Nathan François", "Arnold Etienne", "Arnold accius", "Nehemie Jean Baptiste", "Kamill wynder wright", "Jacky Jean philippe", "Kettelyne Gellin"] },
+  { table: 14, names: ["Jean claude Paul", "Michelet", "Fender", "Carlos Mercado", "Emmanuel", "Ernest", "Javier jose", "Nelson", "Jocelyn", "Angie angel"] }
 ];
 
 // Cargar invitados de localStorage si existen
