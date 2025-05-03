@@ -7,9 +7,9 @@ let guests = [
   { table: 6, names: ["Daniela Soto", "Penélope", "Leandro", "Lisandra Ortiz", "Yosvel", "Jason", "Susan", "Gianlucas", "Noelia", "Wikelme", "Lino"] },
   { table: 7, names: ["Yanelin", "Vivian", "Yanet", "Jose", "Freddy", "Danay", "Duniesky", "Georgina", "Kissi", "Zeinet", "Danieska"] },
   { table: 8, names: ["Marlén", "Yoel mora", "Maylen Pérez", "Lesmes Pérez", "Yilien García", "Carol", "Jef", "Jorge", "Gloria", "Franky", "Sonia"] },
-  { table: 9, names: ["Dave", "Andrea", "Chedu", "Leticia", "Rosita", "Reynaldo", "Lázaro Barrueta", "Geili", "Samuel Reyes", "Jony R."] },
+  { table: 9, names: ["Dave", "Andrea", "Alany", "Chedu", "Leticia", "Rosita", "Reynaldo", "Lázaro Barrueta", "Geili", "Samuel Reyes", "Heibraham"] },
   { table: 10, names: ["Elaine", "Michel", "Liam", "Elianet", "Emilio", "Dorcas", "Karla", "Yony", "Ayli", "Igzandro", "Erika"] },
-  { table: 11, names: ["Daitee", "Kateryn", "Justin", "Isaac", "Osmany", "Rocio (photografa)", "Yeitian", "David Mugercia", "Melissa Varona", "Abimael", "Lázaro (Lachi)"] },
+  { table: 11, names: ["Daitee", "Kateryn", "Justin", "Isaac", "Osmany", "Rocio (photografa)", "Yeitian", "David Mugercia", "Melissa Varona", "Lázaro (Lachi)"] },
   { table: 12, names: ["Yurania", "Roberto Blanco", "Madeleine Linares", "Luis Menéndez", "Fabio Daniel", "Zenaida delgado", "Alejandra", "Meylin", "Hija", "Niño"] },
   { table: 13, names: ["Elmase", "Carline", "Henry Phanor", "Nathan François", "Arnold Etienne", "Arnold accius", "Nehemie Jean Baptiste", "Kamill wynder wright", "Jacky Jean philippe", "Kettelyne Gellin"] },
   { table: 14, names: ["Jean claude Paul", "Michelet", "Fender", "Carlos Mercado", "Emmanuel", "Ernest", "Javier jose", "Nelson", "Jocelyn", "Angie angel"] }
